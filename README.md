@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Random Forest models,LSTM and Block chain technology**
 
-- 👨‍💻 All of my projects are available at [website.com](website.com)
+- 👨‍💻 My portfolio website: [https://lakshmi-shravya.github.io/portfolio/](https://lakshmi-shravya.github.io/portfolio/)
 
 - 📫 How to reach me **rl.shravya@gmail.com**
 
